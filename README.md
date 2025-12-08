@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**abhijith1741/abhijith1741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey! I'm Abhijith Lenin 👋
 
-Here are some ideas to get you started:
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```typescript
+const dev = {
+  name: "Senior Frontend Developer",
+  expertise: ["React", "Next.js", "Redux", "TypeScript", "Tailwind CSS"],
+  currently: "Building pixel-perfect, high-performance web apps",
+  loves: "Clean code • Beautiful UI • Smooth animations",
+  funFact: "I turn coffee into components ☕→⚛️"
+}
