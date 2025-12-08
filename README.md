@@ -1,14 +1,16 @@
 <div align="center">
 
-# Hey! I'm Abhijith Lenin 👋
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180"/>
+# Hi, I'm Your Abhijith <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+
+### Senior Frontend Engineer • React & Next.js Expert
 
 ```typescript
-const dev = {
-  name: "Senior Frontend Developer",
-  expertise: ["React", "Next.js", "Redux", "TypeScript", "Tailwind CSS"],
-  currently: "Building pixel-perfect, high-performance web apps",
-  loves: "Clean code • Beautiful UI • Smooth animations",
-  funFact: "I turn coffee into components ☕→⚛️"
-}
+const seniorDev = {
+  role: "Senior Frontend Developer",
+  expertise: ["React", "Next.js 14+", "TypeScript", "Redux / Zustand", "Tailwind CSS"],
+  building: "Blazing-fast, accessible, pixel-perfect web apps",
+  passion: "Clean architecture • Animations • Performance • DX",
+  coffeeToCode: "☕ → ⚛️ → "
+};
