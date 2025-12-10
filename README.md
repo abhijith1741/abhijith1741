@@ -17,7 +17,6 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="55" />
   <img src="https://skillicons.dev/icons?i=framer" height="55" />
   <img src="https://skillicons.dev/icons?i=redux" height="55" />
-  <img src="https://skillicons.dev/icons?i=zustand" height="55" />
   <img src="https://skillicons.dev/icons?i=tanstackquery" height="55" />
 </div>
 
@@ -40,9 +39,6 @@
 <!-- Views + snake -->
 <img src="https://komarev.com/ghpvc/?username=yourusername&color=00D9FF&style=flat-square&label=PROFILE+VIEWS" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake" src="github-contribution-grid-snake.svg" />
-</picture>
+
 
 </div>
