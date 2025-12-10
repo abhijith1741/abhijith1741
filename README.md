@@ -15,7 +15,6 @@
   <img src="https://skillicons.dev/icons?i=nextjs" height="55" />
   <img src="https://skillicons.dev/icons?i=typescript" height="55" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="55" />
-  <img src="https://skillicons.dev/icons?i=framer" height="55" />
   <img src="https://skillicons.dev/icons?i=redux" height="55" />
   <img src="https://skillicons.dev/icons?i=tanstackquery" height="55" />
 </div>
