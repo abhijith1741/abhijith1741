@@ -31,8 +31,7 @@
 <br/><br/>
 
 <!-- Stats (replace yourusername only twice) -->
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" />
+
 
 <br/>
 
