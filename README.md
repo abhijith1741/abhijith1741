@@ -24,10 +24,6 @@
 <br/>
 
 <!-- Extra glow animation on the whole icon row (works perfectly on GitHub) -->
-<style>
-  @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-10px); } }
-  .icons { animation: float 6s ease-in-out infinite; }
-</style>
 
 <div class="icons" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
   <img src="https://skillicons.dev/icons?i=react" height="50" />
