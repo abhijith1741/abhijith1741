@@ -23,15 +23,6 @@
 
 <br/>
 
-<!-- Extra glow animation on the whole icon row (works perfectly on GitHub) -->
-
-<div class="icons" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
-  <img src="https://skillicons.dev/icons?i=react" height="50" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="50" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="50" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" />
-  <img src="https://skillicons.dev/icons?i=framer" height="50" />
-</div>
 
 <br/><br/>
 
